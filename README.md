@@ -1,0 +1,2 @@
+# NativescriptRabbitMQTicker
+NativescriptRabbitMQTicker
